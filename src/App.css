@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme 
+{
+
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Satoshi", "General Sans", sans-serif;
+
+ 
+  --color-background: #050505;
+  --color-background-secondary: #0e0e12;
+  --color-surface: #15151d;
+  --color-surface-light: #1c1c25;
+
+
+  --color-purple: #8b5cf6;
+  --color-purple-bright: #7b2ff7;
+  --color-purple-hover: #a855f7;
+
+ 
+  --color-gold: #d4a95a;
+
+
+  --color-text-primary: #f5f5f5;
+  --color-text-secondary: #a1a1aa;
+  --color-text-muted: #71717a;
+
+
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-purple: rgba(139, 92, 246, 0.25);
+
+ 
+  --shadow-purple-glow:
+    0 0 20px rgba(139, 92, 246, 0.35),
+    0 0 60px rgba(139, 92, 246, 0.15);
+
+  --shadow-card:
+    0 10px 30px rgba(0, 0, 0, 0.4);
+
+ 
+  --radius-card: 24px;
+  --radius-button: 18px;
+
+
+  --spacing-section: 120px;
+
+
+  --ease-premium: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+
+.swiper-wrapper {
+  transition-timing-function: linear !important;
+}
