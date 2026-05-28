@@ -5,7 +5,7 @@ import UPI from "../../../public/assets/home/upi.webp";
 import Coins from "../../../public/assets/home/coins.webp";
 import Reward from "../../../public/assets/home/reward.webp";
 import Score from "../../../public/assets/home/score.webp";
-import Cashback from "../../../public/assets/home/Cashback.webp";
+import Cashback from "../../../public/assets/home/cashback.webp";
 import About from "../../../public/assets/home/about.webp";
 import Ios from "../../../public/assets/home/ios.webp";
 import Playstore from "../../../public/assets/home/playstore.webp";
